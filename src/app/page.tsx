@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Forecast from './_components/Forecast';
 import Today from './_components/Today';
 

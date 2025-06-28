@@ -2,7 +2,6 @@
 import React from 'react';
 import WeatherFetcher from '../api/weather';
 import WeatherCard from './WeatherCard';
-import { getLocationData } from '../api/LocationIP';
 
 export default function Forecast() {
 	const weatherData = WeatherFetcher();
